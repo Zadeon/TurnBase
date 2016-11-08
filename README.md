@@ -1,2 +1,2 @@
 # TurnBase
-Stupid required readme file that I really don't have anything to put in it right now. Welcome anyways if you're interested in maybe helping out then tell me.
+Welcome to my basic turn base game concept that I'm working on. I've had help from a few others but if you would like to join then please contact me.
